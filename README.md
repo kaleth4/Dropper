@@ -85,6 +85,8 @@ int main() {
 
 ---
 
-## 📚 Propósito Educativo
+## [!WARNING]
 
-Este análisis sir
+Uso Ético: Este contenido es exclusivamente para fines educativos y de seguridad ofensiva autorizada. El acceso a sistemas sin permiso es ilegal.
+
+Hecho con 💀 por kaleth
